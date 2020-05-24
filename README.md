@@ -1,5 +1,7 @@
 # Tosu.be
 
+**no longer active**
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.9. Unfortunately, we do not longer offer any fries functionality.
 
 ## Development server
